@@ -1,0 +1,44 @@
+header {
+    background: lightblue;
+    border: solid black;
+    border-width: 10px 10px 10px 10px;
+    margin: 0px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 3em;
+}
+
+img {
+    height: 250px;
+    width: 250px;
+    border: solid black 10px;
+    border-radius: 50%;
+    font-size: 8em;
+    justify-content: center;
+    align-items: center;
+
+}
+
+h3 {
+    background-color: lightblue;
+    padding: 15px;
+    font-size: 1.5em;
+    border-left: 10px solid black;
+}
+
+header,h3 {
+    color: black;
+    font-family: "Arial Black", Gadget, sans-serif;
+}
+
+body {
+    font-family: helvetica, arial, san-serif;
+}
+
+p,ul {
+    padding-left: 50px;
+    font-size: 1.3em;
+    list-style: none;
+}
